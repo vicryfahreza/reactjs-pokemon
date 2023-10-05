@@ -1,0 +1,11 @@
+.DiceRoll3 {
+  border: 5px solid green;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  background-color: tomato;
+}
+
+.DiceRoll3 h1 {
+  font-weight: 200;
+  color: black;
+}
